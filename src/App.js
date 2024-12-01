@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import './_Layout.js';
 import Layout from './_Layout.js';

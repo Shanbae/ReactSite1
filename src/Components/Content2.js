@@ -15,6 +15,7 @@ const Content2 = () => {
           }>
               <img
           src={image1}
+          alt=""
           style={{
     
             'max-width':'50%',

@@ -29,6 +29,7 @@ Experience the flavors, enjoy the ambiance, and create unforgettable memories at
           </p>
           <img
           src={image1}
+          alt=""
           style={{
     
             'max-width':'50%',

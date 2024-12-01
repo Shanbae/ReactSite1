@@ -15,13 +15,13 @@ import images81 from '../Images/image-1366x400.jpg';
 
 function Carousel()  {
     const images=[
-        <img src={images11} className="sliderimg"></img>,        
-        <img src={images31} className="sliderimg"></img>,
-        <img src={images41} className="sliderimg"></img>,
-        <img src={images51} className="sliderimg"></img>,
-        <img src={images61} className="sliderimg"></img>,
-        <img src={images71} className="sliderimg"></img>,
-        <img src={images81} className="sliderimg"></img>
+        <img src={images11} alt="" className="sliderimg"></img>,        
+        <img src={images31} alt="" className="sliderimg"></img>,
+        <img src={images41} alt="" className="sliderimg"></img>,
+        <img src={images51} alt="" className="sliderimg"></img>,
+        <img src={images61} alt="" className="sliderimg"></img>,
+        <img src={images71} alt="" className="sliderimg"></img>,
+        <img src={images81} alt="" className="sliderimg"></img>
        
     ];
   return (

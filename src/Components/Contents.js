@@ -30,6 +30,7 @@ const Contents = () => {
       </p>
       <img
       src={image1}
+      alt=""
       style={{
 
         'max-width':'50%',
